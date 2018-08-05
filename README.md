@@ -7,8 +7,8 @@ In a Stroop task, participants are presented with a list of words, with each wor
 
 ## Questions To Be Explored Here Are:
           1: What is our independent variable? What is our dependent variable?
-          2: What is an appropriate set of hypotheses for this task? What kind of statistical test do you expect to perform
-             ?Justify your choices.
+          2: What is an appropriate set of hypotheses for this task? What kind of statistical test do you expect to 
+             perform? Justify your choices.
           3: Report some descriptive statistics regarding this dataset. Include at least one measure of central tendency
              and at least one measure of variability.
           4: Provide one or two visualizations that show the distribution of the sample data. Write one or two sentences 
