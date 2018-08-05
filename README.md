@@ -14,8 +14,8 @@ In a Stroop task, participants are presented with a list of words, with each wor
           4: Provide one or two visualizations that show the distribution of the sample data.Write one or two sentences 
              noting  what you observe about the plot.
           5: Now, perform the statistical test and report your results. What is your confidence level and your critical 
-              statistic value? Do you reject the null hypothesis or fail to reject it? Come to a conclusion in terms of 
-              the experiment task. Did the results match up with your expectations?
+             statistic value? Do you reject the null hypothesis or fail to reject it? Come to a conclusion in terms of 
+             the experiment task. Did the results match up with your expectations?
               
               
              
